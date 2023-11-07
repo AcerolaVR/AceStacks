@@ -1,5 +1,6 @@
 # AceStacks
 A compact, easy-to-assemble SlimeVR tracker design using all the standard recommended DIY tracker parts, and the commonly available 16340 battery.
+![Screenshot of AceStacks V1 Trackers](/Images/AceStacks.jpg)
 # Overview
 AceStacks is a compact, easy-to-assemble SlimeVR tracker design using all the standard recommended DIY tracker parts, and the commonly available 16340 battery. Here are some of the standout features of the AceStacks trackers.
 
@@ -47,7 +48,7 @@ https://www.youtube.com/watch?v=jQLkWUqJBMk
 - SlimeVR trackers are programmed with a set orientation. As programmed, AceStacks should be worn on the body such that the USB ports are facing the ceiling. This only matters for manual mounting.
 
 ### Data Port Quirks
-The data port may have a gap that prevents a proper data connection with the micro-usb cable. If you’re having trouble connecting, try the following
+The USB cable may not fully seat in the data port, preventing a proper data connection with the tracker. If you’re having trouble connecting, try the following
 - Hold and firmly press the cable into the tracker to form a proper connection
 - Use a USB cable with, or trim back the rubber sheath on a cable to allow you to insert the USB cable further into the port
 - If neither of the above work, you may need to partially disassemble the tracker, remove the microcontroller, and connect directly to the usb port
@@ -55,9 +56,10 @@ The data port may have a gap that prevents a proper data connection with the mic
 ### Safety, Charging and Battery Information
 The trackers cannot be charged while they are on, **MAKE SURE THE TRACKERS ARE OFF BEFORE CHARGING THEM** or you will damage the tracker
 
-If replacing the battery, such as to place fresh ones in or if one fell out, make sure to place the battery polarity correctly. The battery has a flat negative pole, and a button top positive pole
--Follow the battery holder markings for + and -
-The negative pole should be closer to the side with the data and charging port, and the positive side should be on the opposite side
+If replacing the battery, such as to place fresh ones in or if one accidentally fell out, make sure to place the battery polarity correctly.
+- The battery has a flat negative pole, and a button top positive pole
+- Follow the battery holder markings for + and -
+- The negative pole should be closer to the side with the data and charging port, and the positive side should be on the opposite side
 
 **Placing the battery in the wrong polarity and turning on the tracker will damage the tracker**
 
