@@ -24,19 +24,17 @@ Refer to the Official SlimeVR Component Guide for more info https://docs.slimevr
 https://www.aliexpress.us/item/3256802873749389.html
 
 ## Optional Parts
-For battery percentage
+For Battery Percentage
 - Resistors: 0805 SMD 180K Resistor // https://www.aliexpress.us/item/3256801607747550.html
+
+For Charge Protection (a Jumper Pad is Provided if You Don't Use These"
+- B5817W SOD-123 SMD Schottky Diodes // https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_JSMSEMI-B5817W_C917035.html
 
 For Removable Extensions
 - JST ZH1.5 4P Vertical Connector // https://www.aliexpress.us/item/3256802928739446.html
 - JST ZH1.5 4P Wire // https://www.aliexpress.us/item/3256802896025388.html
 Make sure you get the right pitch (ZH, p1.5) and pin count (4p)
 The extension wires can be soldered directly to the same holes the JST connector is soldered to, but using a JST allows removal of the extension
-
-# Assembly
-*TODO*
-## Assembly Video
-*TODO*
 
 # Setup
 ## AceStacks Specific Setup
@@ -54,8 +52,6 @@ The USB cable may not fully seat in the data port, preventing a proper data conn
 - If neither of the above work, you may need to partially disassemble the tracker, remove the microcontroller, and connect directly to the usb port
 
 ### Safety, Charging and Battery Information
-The trackers cannot be charged while they are on, **MAKE SURE THE TRACKERS ARE OFF BEFORE CHARGING THEM** or you will damage the tracker
-
 If replacing the battery, such as to place fresh ones in or if one accidentally fell out, make sure to place the battery polarity correctly.
 - The battery has a flat negative pole, and a button top positive pole
 - Follow the battery holder markings for + and -
@@ -73,6 +69,8 @@ Detailed setup guide: https://docs.slimevr.dev/server/index.html
 - The SlimeVR Team, for an incredible open-source project and community
 
 - Errorbox, who’s tracker design using a similar stacked layout inspired this one
+
+- 
 
 - Fns720, for their modified GoPro Quick Release Locking Clip https://www.printables.com/model/19390-lockable-gopro-quick-release-clip
 https://www.thingiverse.com/thing:3375200

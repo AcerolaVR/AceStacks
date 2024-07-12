@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'AceStacksGoProCase.step',
-/* time_stamp */ '2023-11-06T19:58:28-05:00',
+/* time_stamp */ '2024-07-12T19:13:59-04:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
-/* originating_system */ 'Autodesk Translation Framework v12.14.0.127',
+/* originating_system */ 'Autodesk Translation Framework v13.14.0.145',
 
 /* authorisation */ '');
 
